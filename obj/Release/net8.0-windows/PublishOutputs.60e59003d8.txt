@@ -1,0 +1,5 @@
+C:\Users\Rares Gabriel\Desktop\C# games exe\Tetris 2.0.exe
+C:\Users\Rares Gabriel\Desktop\C# games exe\Tetris 2.0.dll
+C:\Users\Rares Gabriel\Desktop\C# games exe\Tetris 2.0.deps.json
+C:\Users\Rares Gabriel\Desktop\C# games exe\Tetris 2.0.runtimeconfig.json
+C:\Users\Rares Gabriel\Desktop\C# games exe\Tetris 2.0.pdb

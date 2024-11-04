@@ -1,0 +1,20 @@
+D:\Programming\C#\Tetris 2.0\obj\Release\net8.0-windows\MainWindow.g.cs
+D:\Programming\C#\Tetris 2.0\obj\Release\net8.0-windows\App.g.cs
+D:\Programming\C#\Tetris 2.0\obj\Release\net8.0-windows\Tetris 2.0_MarkupCompile.cache
+D:\Programming\C#\Tetris 2.0\obj\Release\net8.0-windows\Tetris 2.0_MarkupCompile.lref
+D:\Programming\C#\Tetris 2.0\bin\Release\net8.0-windows\Tetris 2.0.exe
+D:\Programming\C#\Tetris 2.0\bin\Release\net8.0-windows\Tetris 2.0.deps.json
+D:\Programming\C#\Tetris 2.0\bin\Release\net8.0-windows\Tetris 2.0.runtimeconfig.json
+D:\Programming\C#\Tetris 2.0\bin\Release\net8.0-windows\Tetris 2.0.dll
+D:\Programming\C#\Tetris 2.0\bin\Release\net8.0-windows\Tetris 2.0.pdb
+D:\Programming\C#\Tetris 2.0\obj\Release\net8.0-windows\MainWindow.baml
+D:\Programming\C#\Tetris 2.0\obj\Release\net8.0-windows\Tetris 2.0.g.resources
+D:\Programming\C#\Tetris 2.0\obj\Release\net8.0-windows\Tetris 2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\C#\Tetris 2.0\obj\Release\net8.0-windows\Tetris 2.0.AssemblyInfoInputs.cache
+D:\Programming\C#\Tetris 2.0\obj\Release\net8.0-windows\Tetris 2.0.AssemblyInfo.cs
+D:\Programming\C#\Tetris 2.0\obj\Release\net8.0-windows\Tetris 2.0.csproj.CoreCompileInputs.cache
+D:\Programming\C#\Tetris 2.0\obj\Release\net8.0-windows\Tetris 2.0.dll
+D:\Programming\C#\Tetris 2.0\obj\Release\net8.0-windows\refint\Tetris 2.0.dll
+D:\Programming\C#\Tetris 2.0\obj\Release\net8.0-windows\Tetris 2.0.pdb
+D:\Programming\C#\Tetris 2.0\obj\Release\net8.0-windows\Tetris 2.0.genruntimeconfig.cache
+D:\Programming\C#\Tetris 2.0\obj\Release\net8.0-windows\ref\Tetris 2.0.dll
